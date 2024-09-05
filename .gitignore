@@ -13,8 +13,16 @@ SDL2.dll
 
 #ignore debug file
 x64/Debug/
+
+# Visual Studio proje dosyaları
+*.vcxproj.user
+*.vcxproj.filters
+
+
 # Folder config file
 [Dd]esktop.ini
+
+
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
