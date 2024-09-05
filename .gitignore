@@ -8,6 +8,11 @@ ehthumbs_vista.db
 # Dump file
 *.stackdump
 
+#ignore SDL dll
+SDL2.dll
+
+#ignore debug file
+x64/Debug/
 # Folder config file
 [Dd]esktop.ini
 
